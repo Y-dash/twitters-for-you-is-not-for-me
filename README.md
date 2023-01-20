@@ -19,7 +19,7 @@ Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フ�
 
 ## 不具合報告など
 
-現在ご覧のページの「サポート」タブからご連絡ください。
+Chrome ウェブストアのページの「サポート」タブからご連絡ください。
 
 Twitter は [@Y\_dash](https://twitter.com/Y_dash) ですが、あまり見ていないので連絡手段としては当てになりません。
 
