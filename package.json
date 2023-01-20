@@ -1,7 +1,7 @@
 {
   "name": "twitters-for-you-is-not-for-me",
   "version": "1.0.0",
-  "description": "Google Chrome 拡張機能。Twitter Web Appを開いた際に自動で「フォロー中」をクリックし、「おすすめ」をスルーする。",
+  "description": "Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フォロー中」タブを選択し、「おすすめ」タブは非表示にします。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,10 +19,14 @@
   "devDependencies": {
     "@types/chrome": "0.0.209",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.1.0",
     "npm-check-updates": "^16.6.2",
+    "sass": "^1.57.1",
     "typescript": "^4.9.4"
   }
 }

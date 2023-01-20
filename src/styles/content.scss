@@ -1,0 +1,14 @@
+// 「おすすめ」タブを非表示にする
+div[role="tablist"] div[role="presentation"]:has(a[href="/home"]):nth-child(1) {
+	display: none !important;
+}
+
+// なにかの間違いで「おすすめ」が選択されてしまっているときのみ「おすすめ」タブを表示する
+div[role="tablist"] div[role="presentation"]:has(a[href="/home"][aria-selected="true"]):nth-child(1) {
+	display: flex !important;
+}
+
+// タブメニューの上にある「ホーム」を非表示にする
+div[data-testid="primaryColumn"]:has(a[href="/home"][role="tab"]) div.css-1dbjc4n.r-1loqt21.r-136ojw6 {
+	display: none !important;
+}
