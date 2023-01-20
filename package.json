@@ -1,0 +1,28 @@
+{
+  "name": "twitters-for-you-is-not-for-me",
+  "version": "1.0.0",
+  "description": "Google Chrome 拡張機能。Twitter Web Appを開いた際に自動で「フォロー中」をクリックし、「おすすめ」をスルーする。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-dash/twitters-for-you-is-not-for-me.git"
+  },
+  "author": "Y-dash",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Y-dash/twitters-for-you-is-not-for-me/issues"
+  },
+  "homepage": "https://github.com/Y-dash/twitters-for-you-is-not-for-me#readme",
+  "devDependencies": {
+    "@types/chrome": "0.0.209",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.1.0",
+    "npm-check-updates": "^16.6.2",
+    "typescript": "^4.9.4"
+  }
+}
