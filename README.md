@@ -1,5 +1,7 @@
 # Twitter's "For you" is not for me
 
+[Twitter's "For you" is not for me  \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/twitters-for-you-is-not-f/nlpmfaocdocgmeheioilmhnniimnkopc)
+
 Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フォロー中」タブを選択し、「おすすめ」タブは非表示にします。
 
 ---
@@ -19,11 +21,9 @@ Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フ�
 
 ## 不具合報告など
 
-Chrome ウェブストアのページの「サポート」タブからご連絡ください。
-
-Twitter は [@Y\_dash](https://twitter.com/Y_dash) ですが、あまり見ていないので連絡手段としては当てになりません。
-
-自分用ツールの延長線上での公開であり、対応優先順位としてはあまり高くありません。すべてに即時対応可能ではない旨をご了承ください。
+- [Chrome ウェブストアのページ](https://chrome.google.com/webstore/detail/twitters-for-you-is-not-f/nlpmfaocdocgmeheioilmhnniimnkopc)の「サポート」タブからご連絡ください。
+- Twitter は [@Y\_dash](https://twitter.com/Y_dash) ですが、あまり見ていないので連絡手段としては当てになりません。
+- 自分用ツールの延長線上での公開であり、対応優先順位としてはあまり高くありません。すべてに即時対応可能ではない旨をご了承ください。
 
 ## 更新履歴
 
