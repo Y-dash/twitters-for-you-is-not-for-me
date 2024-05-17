@@ -15,7 +15,7 @@ clickFollowingTab();
 function clickFollowingTab(): void {
 	let htmlElement: HTMLElement = document.getElementsByTagName('html')[0];
 
-	if (htmlElement.dataset.ydashsExtensionTwitterNotForMeIsDone || location.href !== 'https://twitter.com/home') {
+	if (htmlElement.dataset.ydashsExtensionTwitterNotForMeIsDone || (location.href !== 'https://twitter.com/home' && location.href !== 'https://x.com/home')) {
 		return;
 	}
 

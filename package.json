@@ -1,6 +1,6 @@
 {
   "name": "twitters-for-you-is-not-for-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フォロー中」タブを選択し、「おすすめ」タブは非表示にします。",
   "main": "index.js",
   "scripts": {

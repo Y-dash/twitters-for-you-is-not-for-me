@@ -4,8 +4,6 @@
 
 Google Chrome 拡張機能。Twitter Web App を開いた際に自動で「フォロー中」タブを選択し、「おすすめ」タブは非表示にします。
 
-__※ イーロン・マスクは「現状の仕様をやめる予定」と[ツイート](https://twitter.com/elonmusk/status/1616594332907372544)しています。この予告が実行された後は、この拡張機能は無意味となる他、Twitter の新仕様とのなんらかの相性問題が発生する可能性があります。その点をあらかじめご理解の上ご使用ください。 ※__
-
 ---
 
 ## 機能
@@ -17,15 +15,13 @@ __※ イーロン・マスクは「現状の仕様をやめる予定」と[ツ�
 
 ## 注意事項
 
-- イーロン・マスクは「現状の仕様をやめる予定」と[ツイート](https://twitter.com/elonmusk/status/1616594332907372544)しています。この予告が実行された後は、この拡張機能は無意味となる他、Twitter の新仕様とのなんらかの相性問題が発生する可能性があります。その点をあらかじめご理解の上ご使用ください。
 - この拡張機能を使用中に Twitter Web App の挙動に問題が発生した場合、Twitter の仕様変更とこの拡張機能の相性問題がまず疑われます。まずは一度この拡張機能を無効にしてみてください。
 - 日本語表示選択時を対象に開発しています。他言語表示でもおそらくは動きますが、検証はしていません。
 - Google Chrome を対象に開発しています。拡張機能互換を謳う Chromium 系ブラウザでもおそらくは動きますが、検証はしていません。
 
 ## 不具合報告など
 
-- [Chrome ウェブストアのページ](https://chrome.google.com/webstore/detail/twitters-for-you-is-not-f/nlpmfaocdocgmeheioilmhnniimnkopc)の「サポート」タブからご連絡ください。
-- Twitter は [@Y\_dash](https://twitter.com/Y_dash) ですが、あまり見ていないので連絡手段としては当てになりません。
+- [Chrome ウェブストアのページ](https://chrome.google.com/webstore/detail/twitters-for-you-is-not-f/nlpmfaocdocgmeheioilmhnniimnkopc)の[サポートハブ](https://chromewebstore.google.com/detail/nlpmfaocdocgmeheioilmhnniimnkopc/support)からご連絡ください。
 - 自分用ツールの延長線上での公開であり、対応優先順位としてはあまり高くありません。すべてに即時対応可能ではない旨をご了承ください。
 
 ## 更新履歴

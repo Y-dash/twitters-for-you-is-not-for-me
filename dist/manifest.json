@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Twitter's \"For you\" is not for me",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Twitter Web App を開いた際に自動で「フォロー中」タブを選択し、「おすすめ」タブは非表示にします。",
 	"icons" :
 	{
@@ -11,10 +11,10 @@
 	},
 	"author": "Y-dash",
 	"content_scripts": [ {
-		"matches": ["*://twitter.com/*"],
+		"matches": ["*://twitter.com/*", "*://x.com/*"],
 		"css": ["styles/content.css"],
 		"js": ["scripts/content.js"],
 		"run_at" : "document_end"
 	} ],
-	"host_permissions" : ["*://twitter.com/*"]
+	"host_permissions" : ["*://twitter.com/*", "*://x.com/*"]
 }
