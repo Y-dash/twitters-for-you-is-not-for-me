@@ -19,7 +19,7 @@ function clickFollowingTab(): void {
 		return;
 	}
 
-	let unselectedFollowingTabAnchorElement: HTMLAnchorElement | null = document.querySelector('div[role="tablist"] div[role="presentation"]:nth-child(2) > a[href="/home"]');
+	let unselectedFollowingTabAnchorElement: HTMLAnchorElement | null = document.querySelector('div[role="tablist"] div[role="presentation"]:nth-child(2) > :is(a[href="/home"], div[role="tab"])');
 	
 	if (unselectedFollowingTabAnchorElement == null) {
 		setTimeout(clickFollowingTab, 1000 / FPS);

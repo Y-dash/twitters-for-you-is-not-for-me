@@ -3,3 +3,4 @@ node_modules/
 .intermediate/
 release.zip
 design/
+dist.zip
